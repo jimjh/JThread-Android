@@ -10,6 +10,14 @@ To build the library for Android, follow the following steps:
 4. Retrieve your shared/static library from `jthread/android-build`
 5. Use the library as a prebuilt library in the jni folder of your Android project. Instructions on how to do that are available at [my blog][2].
 
+To clean the directory, issue the following commands:
+
+```shell
+$ make clean
+$ rm CMakeCache.txt
+$ rm -r android-build
+```
+
 ## Feedback
 
 Please direct all questions, bug reports, and feedback about the porting process to jim@*NO-SPAM*jh-lim.com; likewise, please direct all questions regarding the JThread library to [Jori][3].
