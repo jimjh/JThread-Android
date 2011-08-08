@@ -1,4 +1,7 @@
 #!/bin/sh
+# Written by Lim Jiunn Haur <jim@jh_lim.com>
+# 
+# Builds the JThread library for Android
 
 export PATH="${NDK_ROOT}/toolchains/arm-linux-androideabi-4.4.3/prebuilt/darwin-x86/bin/:${PATH}"
 SYS_ROOT="${NDK_ROOT}/platforms/android-8/arch-arm"
