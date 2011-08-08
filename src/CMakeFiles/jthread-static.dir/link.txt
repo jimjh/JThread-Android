@@ -1,0 +1,2 @@
+/Developer/SDKs/android-ndk-r6/toolchains/arm-linux-androideabi-4.4.3/prebuilt/darwin-x86/bin/arm-linux-androideabi-ar cr libjthread.a  CMakeFiles/jthread-static.dir/pthread/jmutex.cpp.obj CMakeFiles/jthread-static.dir/pthread/jthread.cpp.obj
+/Developer/SDKs/android-ndk-r6/toolchains/arm-linux-androideabi-4.4.3/prebuilt/darwin-x86/bin/arm-linux-androideabi-ranlib libjthread.a

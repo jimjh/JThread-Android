@@ -1,0 +1,60 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Developer/SDKs/android-ndk-r6/toolchains/arm-linux-androideabi-4.4.3/prebuilt/darwin-x86/bin/arm-linux-androideabi-g++ --sysroot=/Developer/SDKs/android-ndk-r6//platforms/android-8/arch-arm
+Build flags: 	-lc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-lgcc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-lstdc++;-lsupc++;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-I/Developer/SDKs/android-ndk-r6//sources/cxx-stl/gnu-libstdc++/include;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-I/Developer/SDKs/android-ndk-r6//sources/cxx-stl/gnu-libstdc++/libs/armeabi/include;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-L../jthread-1.3.0/android-build/lib;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-L/Developer/SDKs/android-ndk-r6//sources/cxx-stl/gnu-libstdc++/libs/armeabi
+Id flags: 
+
+The output was:
+1
+arm-linux-androideabi-g++: 	-lc: No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Developer/SDKs/android-ndk-r6/toolchains/arm-linux-androideabi-4.4.3/prebuilt/darwin-x86/bin/arm-linux-androideabi-g++ --sysroot=/Developer/SDKs/android-ndk-r6//platforms/android-8/arch-arm
+Build flags: 	-lc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-lgcc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-lstdc++;-lsupc++;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-I/Developer/SDKs/android-ndk-r6//sources/cxx-stl/gnu-libstdc++/include;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-I/Developer/SDKs/android-ndk-r6//sources/cxx-stl/gnu-libstdc++/libs/armeabi/include;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-L../jthread-1.3.0/android-build/lib;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-L/Developer/SDKs/android-ndk-r6//sources/cxx-stl/gnu-libstdc++/libs/armeabi
+Id flags: -c
+
+The output was:
+1
+arm-linux-androideabi-g++: 	-lc: No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Developer/SDKs/android-ndk-r6/toolchains/arm-linux-androideabi-4.4.3/prebuilt/darwin-x86/bin/arm-linux-androideabi-g++ --sysroot=/Developer/SDKs/android-ndk-r6//platforms/android-8/arch-arm
+Build flags: 	-lstdc++;-lsupc++;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-I/Developer/SDKs/android-ndk-r6//sources/cxx-stl/gnu-libstdc++/include;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-I/Developer/SDKs/android-ndk-r6//sources/cxx-stl/gnu-libstdc++/libs/armeabi/include;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-L../jthread-1.3.0/android-build/lib;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-L/Developer/SDKs/android-ndk-r6//sources/cxx-stl/gnu-libstdc++/libs/armeabi
+Id flags: 
+
+The output was:
+1
+arm-linux-androideabi-g++: 	-lstdc++: No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Developer/SDKs/android-ndk-r6/toolchains/arm-linux-androideabi-4.4.3/prebuilt/darwin-x86/bin/arm-linux-androideabi-g++ --sysroot=/Developer/SDKs/android-ndk-r6//platforms/android-8/arch-arm
+Build flags: 	-lstdc++;-lsupc++;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-I/Developer/SDKs/android-ndk-r6//sources/cxx-stl/gnu-libstdc++/include;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-I/Developer/SDKs/android-ndk-r6//sources/cxx-stl/gnu-libstdc++/libs/armeabi/include;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-L../jthread-1.3.0/android-build/lib;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-L/Developer/SDKs/android-ndk-r6//sources/cxx-stl/gnu-libstdc++/libs/armeabi
+Id flags: -c
+
+The output was:
+1
+arm-linux-androideabi-g++: 	-lstdc++: No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Developer/SDKs/android-ndk-r6/toolchains/arm-linux-androideabi-4.4.3/prebuilt/darwin-x86/bin/arm-linux-androideabi-g++ --sysroot=/Developer/SDKs/android-ndk-r6//platforms/android-8/arch-arm
+Build flags: 	-lstdc++;-lsupc++;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-I/Developer/SDKs/android-ndk-r6//sources/cxx-stl/gnu-libstdc++/include;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-I/Developer/SDKs/android-ndk-r6//sources/cxx-stl/gnu-libstdc++/libs/armeabi/include;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-L/Developer/SDKs/android-ndk-r6//sources/cxx-stl/gnu-libstdc++/libs/armeabi
+Id flags: 
+
+The output was:
+1
+arm-linux-androideabi-g++: 	-lstdc++: No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Developer/SDKs/android-ndk-r6/toolchains/arm-linux-androideabi-4.4.3/prebuilt/darwin-x86/bin/arm-linux-androideabi-g++ --sysroot=/Developer/SDKs/android-ndk-r6//platforms/android-8/arch-arm
+Build flags: 	-lstdc++;-lsupc++;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-I/Developer/SDKs/android-ndk-r6//sources/cxx-stl/gnu-libstdc++/include;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-I/Developer/SDKs/android-ndk-r6//sources/cxx-stl/gnu-libstdc++/libs/armeabi/include;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-L/Developer/SDKs/android-ndk-r6//sources/cxx-stl/gnu-libstdc++/libs/armeabi
+Id flags: -c
+
+The output was:
+1
+arm-linux-androideabi-g++: 	-lstdc++: No such file or directory
+
+

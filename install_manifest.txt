@@ -1,0 +1,6 @@
+/Users/codex/Documents/Development/C++/jthread-1.3.0/android-build/include/jthread/jmutex.h
+/Users/codex/Documents/Development/C++/jthread-1.3.0/android-build/include/jthread/jthread.h
+/Users/codex/Documents/Development/C++/jthread-1.3.0/android-build/include/jthread/jmutexautolock.h
+/Users/codex/Documents/Development/C++/jthread-1.3.0/android-build/include/jthread/jthreadconfig.h
+/Users/codex/Documents/Development/C++/jthread-1.3.0/android-build/lib/libjthread.a
+/Users/codex/Documents/Development/C++/jthread-1.3.0/android-build/lib/cmake/JThread/JThreadConfig.cmake
